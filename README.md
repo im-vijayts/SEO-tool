@@ -1,4 +1,4 @@
-# SEOtool
+# Webpage Frequency Calci
 
 This is my first ever official "project" that I have done.
 
