@@ -1,6 +1,6 @@
 # SEOtool
 
-This si my first ever official "project" that I have done.
+This is my first ever official "project" that I have done.
 
 This is simply a webpage downloader.
 
