@@ -13,18 +13,15 @@ worksheet.write('A1','URL')
 worksheet.write('B1','WORD')
 worksheet.write('C1','FREQUENCY')
 
-#creating two variables for xlsx
+#creating two variables for xlsx (row and col)
 wr=1
 wc=0
 
 #to plot charts for multiple urls
 next_chart=0
 
-#to repeat the process with a new url
-endless=10000000000000
-
 #checking if the url is correct
-for rep in range(endless):
+while(True):
 
     #count for frequency
     count = 0
